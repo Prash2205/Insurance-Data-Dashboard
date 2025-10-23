@@ -1,5 +1,8 @@
 # Insurance-Data-Dashboard
 
+## Dashboard Link
+https://app.powerbi.com/groups/me/reports/25226f73-f040-4cff-919d-4580e9e09a3d/915c1970c5347b880643?experience=power-bi
+
 ## Overview
 - The Insurance Data Dashboard provides a comprehensive overview of key metrics and performance indicators for an insurance company. It visualizes information related to policy distribution, premium collections, claim amounts, and policyholder demographics.
 - The dashboard helps stakeholders monitor business performance, identify trends, and make data-driven decisions to optimize operations and profitability.
